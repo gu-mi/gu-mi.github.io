@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Gu Mi's Website
 
-You can use the [editor on GitHub](https://github.com/gu-mi/gu-mi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thank you for visiting! This website serves as a repository of my research works. My published papers and the accompanying software can be downloaded here. Some ongoing works may also be available after a public presentation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Peer-Reviewed Publications
 
-### Markdown
+1. **Mi, G.**, & Di, Y. (2015). [The Level of Residual Dispersion Variation and the Power of Differential Expression Tests for RNA-Seq Data](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120117). PLOS ONE, 10(4), e0120117.
+2. **Mi, G.**, Di, Y., & Schafer, D. W. (2015). [Goodness-of-fit tests and model diagnostics for negative binomial regression of RNA sequencing data](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119254). PLOS ONE, 10(3), e0119254.
+3. **Mi, G.**, Di, Y., Emerson, S., Cumbie, J. S., & Chang, J. H. (2012). [Length bias correction in gene ontology enrichment analysis using logistic regression](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0046128). PLOS ONE, 7(10), e46128.
+4. Di, Y., **Mi, G.**, Sun, L., Dong, R., Zhu, H., & Peng, L. (2011, November). [Power of association tests in the presence of multiple causal variants](http://bmcproc.biomedcentral.com/articles/10.1186/1753-6561-5-S9-S63). In BMC proceedings (Vol. 5, No. 9, p. 1). BioMed Central.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gu-mi/gu-mi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Conference Presentations
