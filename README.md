@@ -38,6 +38,6 @@ Thank you for visiting! This website serves as a repository of my research works
 * *Contemporary Clinical Trials Communications*
 * *PLOS ONE*
 * *Journal of Statistical Computation and Simulation*
-* *BMC Bioinformatics
+* *BMC Bioinformatics*
 * *Research and Reports in Biology*
 * *Advances in Obesity, Weight Management & Control*
