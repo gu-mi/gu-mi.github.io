@@ -13,6 +13,7 @@ Thank you for visiting! This website serves as a repository of my research works
 
 #### Statistical Conferences
 
+* **Mi G**. "Enhancement of the Adaptive Signature Design for Learning and Confirming in a Single Pivotal Trial". Oral Presentation at 2017 ICSA Applied Statistics Symposium.
 * **Mi G**, Nguyen T, and Denne J. "Subgroup Determination by Cross-Validation in STEPP". Oral Presentation at JSM 2016.
 * **Mi G**. "Cross-Validated STEPP Analysis for Biomarker Subgroup Determination Problems". Oral Presentation at the 39th Midwest Biopharmaceutical Statistics Workshop (2016).
 * **Mi G** and Di Y. "Power-Robustness Analysis of Statistical Models for RNA-Seq Data". Oral presentation at 2014 ICSA Joint Applied Statistics Symposium.
@@ -22,6 +23,7 @@ Thank you for visiting! This website serves as a repository of my research works
 
 #### Medical Conferences
 
+* Chau I, Bendell J, Calvo E, Santana-Davila R, Rodon J, Penel N, Arkenau HT, Yang J, Rege J, **Mi G**, et al. "Interim safety and clinical activity in patients (pts) with advanced gastric or gastroesophageal junction (G/GEJ) adenocarcinoma from a multicohort phase 1 study of ramucirumab (R) plus pembrolizumab (P)". Poster at 2017 Gastrointestinal Cancers Symposium (ASCO GI).
 * Petrylak DP, Arkenau H, Perez-Gracia JL, Krebs M, Santana-Davila R, Yang J, Rege J, **Mi G**, et al. "A multicohort phase 1 study of ramucirumab (R) plus pembrolizumab (P): interim safety and clinical activity in patients with urothelial carcinoma". Abstract at 2017 Genitourinary Cancers Symposium (ASCO GU).
 * Lin CC, Golan T, Corral J, Moreno V, Chung HC, Wasserstrom H, Yang J, **Mi G**, et al. "Phase 1 study of ramucirumab (R) plus durvalumab (D) in patients (pts) with locally advanced and unresectable or metastatic gastrointestinal or thoracic malignancies (NCT02572687); phase 1a results". Proffered paper session at 2016 ESMO Symposium on Immuno-Oncology.
 * Bang YJ, Goff LW, Wasserstrom H, Yang J, **Mi G**, et al. "An open-label, multicenter, phase 1 study of ramucirumab (R) plus durvalumab (D) in patients (pts) with locally advanced and unresectable or metastatic gastric or gastroesophageal junction (G/GEJ) adenocarcinoma, non-small cell lung cancer (NSCLC), or hepatocellular carcinoma (HCC)". Trial in Progress at 2016 ESMO Symposium on Immuno-Oncology.
@@ -36,5 +38,6 @@ Thank you for visiting! This website serves as a repository of my research works
 * *Contemporary Clinical Trials Communications*
 * *PLOS ONE*
 * *Journal of Statistical Computation and Simulation*
+* *BMC Bioinformatics
 * *Research and Reports in Biology*
 * *Advances in Obesity, Weight Management & Control*
