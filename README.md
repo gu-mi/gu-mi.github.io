@@ -4,6 +4,7 @@ Thank you for visiting! This website serves as a repository of my research works
 
 ### Peer-Reviewed Publications
 
+* **Mi, G**. (2017). Enhancement of the Adaptive Signature Design for Learning and Confirming in a Single Pivotal Trial. Pharmaceutical Statistics (accepted).
 * **Mi, G.**, & Di, Y. (2015). [The Level of Residual Dispersion Variation and the Power of Differential Expression Tests for RNA-Seq Data](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120117). PLOS ONE, 10(4), e0120117.
 * **Mi, G.**, Di, Y., & Schafer, D. W. (2015). [Goodness-of-fit tests and model diagnostics for negative binomial regression of RNA sequencing data](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119254). PLOS ONE, 10(3), e0119254.
 * **Mi, G.**, Di, Y., Emerson, S., Cumbie, J. S., & Chang, J. H. (2012). [Length bias correction in gene ontology enrichment analysis using logistic regression](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0046128). PLOS ONE, 7(10), e46128.
@@ -23,6 +24,8 @@ Thank you for visiting! This website serves as a repository of my research works
 
 #### Medical Conferences
 
+* Genova, C, Varella-Garcia, M, Rivard, C, Socinski, M, Hozak, R, **Mi, G** et al. "EGFR FISH as Potential Predictor of Necitumumab Benefit with Chemotherapy in Squamous NSCLC: Subgroup Analyses from SQUIRE". Journal of Thoracic Oncology, 12(1), pp.S955-S956 (2017).
+* Reck, M, Bang, YJ, Goff, L, Wasserstrom, H, Yang, J, **Mi, G** and Karasarides, M. "Multizentrische, offene Phase 1 Studie mit Ramucirumab plus Durvalumab bei Patienten mit inoperablem lokal fortgeschrittenen oder metastasierten Adenokarzinom des Magens oder gastrooesophagealen Übergangs (G/GEJ), nichtkleinzelligem Lungenkarzinom (NCSLC) oder hepatozellulärem Karzinom (HCC)". Pneumologie, 71(S 01), p.P5.
 * Chau I, Bendell J, Calvo E, Santana-Davila R, Rodon J, Penel N, Arkenau HT, Yang J, Rege J, **Mi G**, et al. "Interim safety and clinical activity in patients (pts) with advanced gastric or gastroesophageal junction (G/GEJ) adenocarcinoma from a multicohort phase 1 study of ramucirumab (R) plus pembrolizumab (P)". Poster at 2017 Gastrointestinal Cancers Symposium (ASCO GI).
 * Petrylak DP, Arkenau H, Perez-Gracia JL, Krebs M, Santana-Davila R, Yang J, Rege J, **Mi G**, et al. "A multicohort phase 1 study of ramucirumab (R) plus pembrolizumab (P): interim safety and clinical activity in patients with urothelial carcinoma". Abstract at 2017 Genitourinary Cancers Symposium (ASCO GU).
 * Lin CC, Golan T, Corral J, Moreno V, Chung HC, Wasserstrom H, Yang J, **Mi G**, et al. "Phase 1 study of ramucirumab (R) plus durvalumab (D) in patients (pts) with locally advanced and unresectable or metastatic gastrointestinal or thoracic malignancies (NCT02572687); phase 1a results". Proffered paper session at 2016 ESMO Symposium on Immuno-Oncology.
@@ -39,5 +42,6 @@ Thank you for visiting! This website serves as a repository of my research works
 * *PLOS ONE*
 * *Journal of Statistical Computation and Simulation*
 * *BMC Bioinformatics*
+* *BMC Genomics*
 * *Research and Reports in Biology*
 * *Advances in Obesity, Weight Management & Control*
