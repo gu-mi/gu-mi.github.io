@@ -4,7 +4,7 @@ Thank you for visiting! This website serves as a repository of my research works
 
 ### Peer-Reviewed Publications
 
-* **Mi, G**. (2017). Enhancement of the Adaptive Signature Design for Learning and Confirming in a Single Pivotal Trial. Pharmaceutical Statistics (accepted).
+* **Mi, G**. (2017). [Enhancement of the Adaptive Signature Design for Learning and Confirming in a Single Pivotal Trial](http://onlinelibrary.wiley.com/doi/10.1002/pst.1811/full). Pharmaceutical Statistics.
 * **Mi, G.**, & Di, Y. (2015). [The Level of Residual Dispersion Variation and the Power of Differential Expression Tests for RNA-Seq Data](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120117). PLOS ONE, 10(4), e0120117.
 * **Mi, G.**, Di, Y., & Schafer, D. W. (2015). [Goodness-of-fit tests and model diagnostics for negative binomial regression of RNA sequencing data](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119254). PLOS ONE, 10(3), e0119254.
 * **Mi, G.**, Di, Y., Emerson, S., Cumbie, J. S., & Chang, J. H. (2012). [Length bias correction in gene ontology enrichment analysis using logistic regression](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0046128). PLOS ONE, 7(10), e46128.
