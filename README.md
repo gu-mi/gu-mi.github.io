@@ -37,11 +37,12 @@ Thank you for visiting! This website serves as a repository of my research works
 
 ### Expert Reviewer
 
-* *Contemporary Clinical Trials*
-* *Contemporary Clinical Trials Communications*
-* *PLOS ONE*
-* *Journal of Statistical Computation and Simulation*
 * *BMC Bioinformatics*
 * *BMC Genomics*
+* *Contemporary Clinical Trials*
+* *Contemporary Clinical Trials Communications*
+* *Journal of Biopharmaceutical Statistics*
+* *Journal of Statistical Computation and Simulation*
+* *PLOS ONE*
 * *Research and Reports in Biology*
 * *Advances in Obesity, Weight Management & Control*
